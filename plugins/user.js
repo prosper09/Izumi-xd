@@ -278,7 +278,7 @@ menu += `\n╚┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄⛒`;
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
       newsletterJid: '120363239634100086@newsletter',
-      newsletterName: "𝗭𝗲𝘁𝗮-𝗫𝗗 ⛮",
+      newsletterName: "𝙀𝙮𝙥𝙯 ⛮",
       serverMessageId: -1
             }}, caption: (penu)}, {quoted: message })
     }
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐙𝐄𝐓𝐀-𝐗𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝙀𝙮𝙥𝙯/🌸 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
