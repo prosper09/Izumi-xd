@@ -278,7 +278,7 @@ menu += `\n╚┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄⛒`;
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
       newsletterJid: '120363239634100086@newsletter',
-      newsletterName: "𝙀𝙮𝙥𝙯 ⛮",
+      newsletterName: "𝗜𝗭𝗨𝗠𝗜 𝗫𝗗🧚‍♂️",
       serverMessageId: -1
             }}, caption: (penu)}, {quoted: message })
     }
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝙀𝙮𝙥𝙯/🌸 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝐄𝐘𝐏𝐙 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
@@ -457,7 +457,7 @@ command(
 	type: 'user'
 }, async (message, match) => {
 	match = match || message.reply_message.text
-	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _Ezra-XD_*.')
+	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _Eypz-God_*.')
 	await message.client.updateProfileStatus(match)
 	await message.reply('*_Successfully bio updated_*')
 })
