@@ -2,9 +2,12 @@
 <img 
 src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
 </p>
-        <img
-<src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
+        <img 
+src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="190" height="190"/>
+</p>
 
+</div>
+        
 ## IZUMI-XD Whatsapp Bot
 IZUMI-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
