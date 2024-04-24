@@ -59,8 +59,8 @@ async function Abhiy() {
   conn.ev.on("connection.update", async (s) => {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
-      console.log("Zeta");
-      console.log("𝗥𝗘𝗔𝗗𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 🪫");
+      console.log("Izumi");
+      console.log("𝗥𝗘𝗔𝗗𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 🧚‍♂️");
     }
 
     if (
@@ -75,7 +75,7 @@ async function Abhiy() {
 
     if (connection === "open") {
     
-      console.log("𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗟𝗢𝗚𝗜𝗡𝗘𝗗 𝗜𝗡𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 🧩");
+      console.log("𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗟𝗢𝗚𝗜𝗡𝗘𝗗 𝗜𝗡𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 🧚‍♂️");
       console.log("𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗜𝗡𝗚 𝗣𝗟𝗨𝗚𝗜𝗡𝗦 🛠️");
 
       let plugins = await PluginDB.findAll();
@@ -92,14 +92,14 @@ async function Abhiy() {
           }
         }
       });
-      console.log("𝗣𝗟𝗨𝗚𝗜𝗡𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🎏");
+      console.log("𝗣𝗟𝗨𝗚𝗜𝗡𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🧚‍♂️");
 
       fs.readdirSync("./plugins").forEach((plugin) => {
         if (path.extname(plugin).toLowerCase() == ".js") {
           require("./plugins/" + plugin);
         }
       });
-      console.log("𝗘𝗬𝗣𝗭-𝗫𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬🔋");
+      console.log("𝗜𝗭𝗨𝗠𝗜 𝗫𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬🧚‍♂️");
       let readMore = String.fromCharCode(8206).repeat(4001);
       let str = `𝐄𝐘𝐏𝐙-𝐗𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 ${readMore}\n\n\n𝘝𝘌𝘙𝘚𝘐𝘖𝘕   : *${require("./package.json").version }* \n𝘗𝘓𝘜𝘎𝘐𝘕𝘚  : *${events.commands.length}* \n𝘔𝘖𝘋𝘌  : *${config.WORK_TYPE}* \n𝘗𝘙𝘌𝘍𝘐𝘟  : *${config.HANDLERS}*`;
       conn.sendMessage(conn.user.id, { text: str });
