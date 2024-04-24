@@ -265,7 +265,7 @@ Description: ${i.desc}\`\`\``);
         menu += `\n   ╔┴────────────┈⚆`;
         let comad = cmnd.filter(({ type }) => type == cmmd);
         comad.forEach(({ cmd }) => {
-          menu += `\n   ✇  ${cmd.trim()}`;
+          menu += `\n   ❁  ${cmd.trim()}`;
         });
         menu += `\n   ╚─────────────┈⚆`;
       });
