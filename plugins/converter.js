@@ -50,8 +50,8 @@ command(
       listall("Zeta").forEach((txt, num) => {
         text += `${(num += 1)} ${txt}\n`;
       });
-        text += "\n\n𝐙𝐄𝐓𝐀-𝐗𝐃"
-      return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "𝗭𝗘𝗧𝗔-𝗫𝗗 𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", caption: (text)}, {quoted: message });
+        text += "\n\n𝐄𝐘𝐏𝐙-𝐗𝐃"
+      return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "𝗘𝗬𝗣𝗭-𝗫𝗗 𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", caption: (text)}, {quoted: message });
     } else {
       message.reply(styletext(message.reply_message.text, parseInt(match)));
     }
