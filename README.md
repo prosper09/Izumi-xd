@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/Uc0uIkO.jpeg'/></a>
+<src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
 
 ## IZUMI-XD Whatsapp Bot
 IZUMI-XD - Simple whatsapp Multi Device bot based on 
