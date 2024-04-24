@@ -101,7 +101,7 @@ async function Abhiy() {
       });
       console.log("𝗜𝗭𝗨𝗠𝗜 𝗫𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬🧚‍♂️");
       let readMore = String.fromCharCode(8206).repeat(4001);
-      let str = `𝐄𝐘𝐏𝐙-𝐗𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 ${readMore}\n\n\n𝘝𝘌𝘙𝘚𝘐𝘖𝘕   : *${require("./package.json").version }* \n𝘗𝘓𝘜𝘎𝘐𝘕𝘚  : *${events.commands.length}* \n𝘔𝘖𝘋𝘌  : *${config.WORK_TYPE}* \n𝘗𝘙𝘌𝘍𝘐𝘟  : *${config.HANDLERS}*`;
+      let str = `𝗜𝗭𝗨𝗠𝗜-𝗫𝗗 𝗦𝗧𝗔𝗥𝗧𝗘𝗗🧚‍♂️ ${readMore}\n\n\n𝘝𝘌𝘙𝘚𝘐𝘖𝘕   : *${require("./package.json").version }* \n𝘗𝘓𝘜𝘎𝘐𝘕𝘚  : *${events.commands.length}* \n𝘔𝘖𝘋𝘌  : *${config.WORK_TYPE}* \n𝘗𝘙𝘌𝘍𝘐𝘟  : *${config.HANDLERS}*`;
       conn.sendMessage(conn.user.id, { text: str });
      try {
         conn.ev.on("creds.update", saveCreds);
