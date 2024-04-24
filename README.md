@@ -63,4 +63,8 @@ Xasena
  </details>
 
  
+***
 
+### Zeta MD
+deploy the original version of this bot for more features 
+[`Badan-ser`](https://github.com/Kingbadan321/Zeta-XD)
