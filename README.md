@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/Uc0uIkO.jpeg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## IZUMI-XD Whatsapp Bot
 IZUMI-XD - Simple whatsapp Multi Device bot based on 
@@ -37,7 +37,7 @@ Xasena
 
 
 
-<a><img src='https://i.imgur.com/Uc0uIkO.jpeg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
 
