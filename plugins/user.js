@@ -230,14 +230,14 @@ Description: ${i.desc}\`\`\``);
         const readMore = String.fromCharCode(8206).repeat(4001);
       let menu = `\n╔┉┉┉〔 ${BOT_INFO.split(";")[0]} 〕┉┉┉┉┉⚇
     ╔┅┅┅┅┅┅┅┅┅┅┅┅⚅
-  ⚈ ┋ *OWNER*: ${BOT_INFO.split(";")[1]}
-  ⚈ ┋ *USER*: ${usern}
-  ⚈ ┋ *DATE*: ${date}
-  ⚈ ┋ *TIME*: ${time}
-  ⚈ ┋ *COMMANDS*: ${plugins.commands.length}
-  ⚈ ┋ *MODE*: ${config.WORK_TYPE}
-  ⚈ ┋ *PREFIX*: ${config.HANDLERS}
-  ⚈ ┋ *VERSION*: ${require("../package.json").version}
+  ✵ ┋ *OWNER*: ${BOT_INFO.split(";")[1]}
+  ✵ ┋ *USER*: ${usern}
+  ✵ ┋ *DATE*: ${date}
+  ✵ ┋ *TIME*: ${time}
+  ✵ ┋ *COMMANDS*: ${plugins.commands.length}
+  ✵ ┋ *MODE*: ${config.WORK_TYPE}
+  ✵ ┋ *PREFIX*: ${config.HANDLERS}
+  ✵ ┋ *VERSION*: ${require("../package.json").version}
     ╚┅┅┅┅┅┅┅┅┅┅┅┅⚅
 ╚┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⚇\n ${readMore}\n╔┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄⛒`;
 
