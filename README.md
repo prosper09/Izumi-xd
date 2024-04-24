@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Zeta-XD Whatsapp Bot
-Zeta-XD - Simple whatsapp Multi Device bot based on 
+## Eypz-XD Whatsapp Bot
+EYPZ-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
 
 ``` Full Open Source```
@@ -11,7 +11,7 @@ Xasena
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/Kingbadan321/Zeta-XD/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/sataniceypz/Eypz-xd/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
 <a href='https://www.badan-ser.xyz' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -27,7 +27,7 @@ Xasena
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kingbadan321/Zeta-XD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/sataniceypz/Eypz-xd' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ***
@@ -57,10 +57,7 @@ Xasena
 
 <br>
 
-* [`LOUIS-XD`](https://github.com/Louis-XD)
-* [`LOKI-XER`](https://github.com/Loki-xer)
-* [`I-NRL`](https://github.com/i-nrl)
-* [`NEERAJ-XO`](https://github.com/Neeraj-x0)
+* [`Badan-ser`](https://github.com/Kingbadan321)
 
 
  </details>
