@@ -260,7 +260,7 @@ Description: ${i.desc}\`\`\``);
       cmnd.sort();
       category.sort().forEach((cmmd) => {
         menu += `\n   ╔─────────────┈⚆`;
-        menu += `\n   ࿂┊  ❲ *${cmmd.toUpperCase()}* ❳`;
+        menu += `\n   ❁┊  ❲ *${cmmd.toUpperCase()}* ❳`;
         menu += `\n   ╚┬────────────┈⚆`
         menu += `\n   ╔┴────────────┈⚆`;
         let comad = cmnd.filter(({ type }) => type == cmmd);
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐄𝐘𝐏𝐙 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝐈𝐙𝐔𝐌𝐈 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
@@ -345,7 +345,7 @@ command(
     type:'user'
   },
   async (message, match) => {
-    if (!match) return await message.sendMessage("*_Send a plugin url_*");
+    if (!match) return await message.sendMessage("*_Plugin Url not found_*");
     for (let Url of getUrl(match)) {
       try {
         var url = new URL(Url);
@@ -381,7 +381,7 @@ command(
         await installPlugin(url, plugin_name);
 
         await message.sendMessage(
-          `*_New plugin installed : ${commands.join(",")}_*`
+          `*_Plugin installed : ${commands.join(",")}_*`
         );
       }
     }
