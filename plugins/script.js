@@ -4,7 +4,7 @@ command(
     {
         pattern: "script",
         fromMe: false,
-        desc: "zeta xd repo",
+        desc: "izumi xd repo",
         type: "user",
     },
     async (message, match, m, client) => {
@@ -19,7 +19,7 @@ command(
 
 *𝐅ᴜ͛ʟ͛ʟ ͛𝚯ᴩ͛͢ᴇɴ͛ 𝐒ᴏ͛ᴜ͛ʀ͍͛ᴄ͛ᴇ͛*
 
-➫ *𝐒͢͢ᴇ͛ꜱ͛ꜱ͍͛ɪ͛ᴏ͛ɴ͛* : ````badan-ser.xyz````
+➫ *𝐒͢͢ᴇ͛ꜱ͛ꜱ͍͛ɪ͛ᴏ͛ɴ͛* : ````https://qr-izumi.onrender.com````
 
 *𝚻⃯͓ʜ⃯͛ᴀ͛ɴ⃯͛ᴋ͛ꜱ͛*🦋
 
