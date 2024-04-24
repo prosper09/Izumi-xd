@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
+src="https://i.imgur.com/Uc0uIkO.jpeg" alt="img" width="80" height="80"/>
 </p>
         <img 
 src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="190" height="190"/>
@@ -41,6 +41,7 @@ Xasena
 
 ***
 * Join Group For Help
+     <br>
 <a href="https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
