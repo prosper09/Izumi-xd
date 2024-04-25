@@ -22,8 +22,16 @@ Xasena
    <br>
 <a href='https://github.com/sataniceypz/Izumi-xd/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
+
+### QR 1
+.
     <br>
-<a href='https://qr-izumi.onrender.com' target="_blank"><img alt='SCAN QR 1' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://qr-izumi.onrender.com' target="_blank"><img alt='SCAN QR ' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+### QR 1
+.
+    <br>
+<a href='https://qr-izumi.onrender.com' target="_blank"><img alt='SCAN QR ' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### Deploy
